@@ -3,7 +3,8 @@
 ## Advanced JavaScript
 
 ## Array Methods and Callbacks
-*Note*: Please add the LIVE server extension to your visual studio code and use it for this project. https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer - this will make viewing your data easier. 
+
+*Note*: Please add the LIVE server extension to your visual studio code and use it for this project. <https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer> - this will make viewing your data easier.
 
 ## Objectives
 
@@ -89,9 +90,9 @@ Your data lives in a file called `fifa.js`. In order to work with and use your d
 
 In some cases, when the outcome of a game was decided by penalty kicks, the home team and away team will have the same number of goals scored. You can ignore ties for the purpose of these tasks, but you can also look to the "Win conditions" key  and splice out the winning team as a stretch goal. (See example below)
 
-```
+```js
 Win conditions": "France win on penalties (3 - 4)",
-````
+```
 
 ## Resources
 
